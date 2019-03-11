@@ -1,0 +1,7 @@
+*.out
+*.o
+/socket/.gitignore
+/messageQ/.gitignore
+/signal/.gitignore
+/sharedMemory/.gitignore
+/namedPipe/.gitignore
